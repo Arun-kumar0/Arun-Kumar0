@@ -1,5 +1,9 @@
-# 💫 About Me
-Hi 👋, I'm Arun Kumar<br><br>💻 Passionate Software Developer<br>⚛️ Building interactive & efficient web applications<br>🎨 Love creating clean and user-friendly UI<br>🚀 Focused on learning, building & growing every day<br>⚡ Fun Fact: I love sharing knowledge and building things that impact people.  
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&size=35&duration=3000&pause=1000&color=00F9FF&center=true&vCenter=true&width=600&lines=Hi+There+%F0%9F%91%8B%F0%9F%8F%BB;I'm+Arun+Kumar;Full+Stack+Developer" alt="Typing SVG" />
+</h1>
+
+<img align="right" width="370" height="280" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+💫 About Me<br><br>💻 Passionate Software Developer<br>⚛️ Building interactive & efficient web applications<br>🎨 Love creating clean and user-friendly UI<br>🚀 Focused on learning, building & growing every day<br>⚡ Fun Fact: I love sharing knowledge and building things that impact people.  
 
 
 ## 🌐 Socials:
